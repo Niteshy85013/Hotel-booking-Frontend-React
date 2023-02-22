@@ -17,7 +17,7 @@ const Home = () => {
                 <a href="/" class="btn btn-primary ms-5 fw-bold fs-5">Book now</a>
             </div>
             <div class="col-md-4   text-center ">
-                <img src="https://imgs.search.brave.com/Zm3O95VQHa1co6T7jROOwFE71hcDwU2EvSaJqqDIALM/rs:fit:948:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC55/WFQ2dHl0dmdOaWpk/M01aWXQ4ODNRSGFE/dCZwaWQ9QXBp" alt="" style={{width:'40rem',height:'25rem'}} class="py-2" />
+                <img src="https://imgs.search.brave.com/Zm3O95VQHa1co6T7jROOwFE71hcDwU2EvSaJqqDIALM/rs:fit:948:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC55/WFQ2dHl0dmdOaWpk/M01aWXQ4ODNRSGFE/dCZwaWQ9QXBp" alt="" style={{width:'40rem',height:'25rem'}} class="py-2 img-fluid" />
             </div>
         </div>
     </div>
